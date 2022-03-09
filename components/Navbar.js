@@ -36,7 +36,7 @@ const Navbar = () => {
                 <Image className={style.userImage} src={avatar} height={40} width={40}/>
             </div>
             <div>
-                {currentAccount.slice(0,6)} ... {currentAccount.slice(39)}
+                {currentAccount.slice(0,6)} ... {currentAccount.slice(28)}
             </div>
         </div>
     </div>

@@ -1,7 +1,8 @@
 import Head from 'next/head'
 import Image from 'next/image'
 const style = {
-  wrapper: `h-screen w-screen flex flex-col`
+  wrapper: `h-screen w-screen flex flex-col`,
+  body: `flex flex-col`
 }
 
 
